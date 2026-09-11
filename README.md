@@ -12,7 +12,7 @@ Python · pandas · NumPy · DuckDB (SQL) · matplotlib
 
 ## Informe
 
-El análisis completo, con las conclusiones detalladas, está en [`Informe.pdf`](.TP01-sanisidrenses/Informe.pdf).
+El análisis completo, con las conclusiones detalladas, está en [`Informe.pdf`](./TP01-sanisidrenses/Informe.pdf).
 
 ## Autoría
 
