@@ -6,6 +6,12 @@ Proyecto grupal de la materia Laboratorio de Datos, FCEyN – Universidad de Bue
 
 Análisis exploratorio sobre datos abiertos del gobierno argentino, buscando relacionar la distribución geográfica de bibliotecas populares con la de centros educativos (jardines, primarias y secundarios) por departamento. Se construyó un modelo relacional a partir de cinco fuentes de datos (población, bibliotecas populares, establecimientos educativos, provincias y departamentos), y se respondieron distintas consultas mediante SQL.
 
+## Fuentes de datos
+
+- [Padrón oficial de Establecimientos Educativos (2022)](https://www.argentina.gob.ar/educacion/evaluacion-e-informacion-educativa/padron-oficial-de-establecimientos-educativos)
+- [Padrón de Bibliotecas Populares](https://datos.gob.ar/dataset/espacios-culturales-argentina-sinca/resource/52525cde-f807-5fb5-a472-fa63a46518da)
+- Población por departamento y edad simple, [Censo Nacional de Población, Hogares y Viviendas 2022](https://censo.gob.ar/)
+
 ## Herramientas
 
 Python · pandas · NumPy · DuckDB (SQL) · matplotlib
